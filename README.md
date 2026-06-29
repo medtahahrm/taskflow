@@ -17,3 +17,29 @@ cd server
 npm install
 cp .env.example .env   # et remplir les variables
 npm start
+```
+
+### Frontend
+```bash
+cd client
+npm install
+npm start
+```
+
+### Fonctionnalités
+```Authentification (inscription, connexion, email de vérification)
+
+Gestion des projets
+
+Gestion des tâches
+
+Suivi d'activité
+
+Dashboard
+
+text
+```
+
+# Coverage
+coverage/
+.nyc_output/
